@@ -44,7 +44,7 @@ class PrinceChidera:
         return [
             "🛰️  Real-time computer vision on edge hardware",
             "🤖  TinyML & on-device inference pipelines",
-            "🌾  Offline AI for agriculture (AgriSense)",
+            "🌾  Offline AI for agriculture (GreenNET)",
             "⚡  Sensor fusion & autonomous targeting systems",
         ]
 ```
