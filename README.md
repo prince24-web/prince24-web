@@ -14,9 +14,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Https://www.linkedin.com/in/prince-chidera-a20926368?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](Https://www.tiktok.com/@code_monarch1?_r=1&_t=ZS-97UAp75FguN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princechidera1007@gmail.com)
 
 </div>
 
@@ -27,8 +27,7 @@
 ```python
 class PrinceChidera:
     name       = "Prince Chidera"
-    alias      = "Sir Prince Chidera"
-    location   = "Nigeria 🇳🇬"
+    alias      = "Code Mornach"
     company    = "Monarch Industries (Founder)"
 
     stack = {
@@ -66,7 +65,7 @@ MediaPipe · Arduino · SG90 Servos · Python Serial
 </td>
 <td width="50%">
 
-### 🌾 AgriSense
+### 🌾 GreenNET
 **Offline Agricultural Intelligence Assistant**
 Qwen2.5:1.5b · ChromaDB · ONNX · Ollama · SQLite
 > Runs fully offline on CPU-only laptops. RAG-powered crop knowledge base + plant disease classifier for Nigerian smallholder farmers.
@@ -131,14 +130,14 @@ ESP32-CAM · MPU-6050 · nRF24L01 · DeepSORT
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=prince24-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince24-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prince24-web&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -147,12 +146,12 @@ ESP32-CAM · MPU-6050 · nRF24L01 · DeepSORT
 ## `> tail -f /var/log/activity.log`
 
 ```
-[2025] → Built AgriSense: offline AI assistant for Nigerian farmers
-[2025] → Deployed Monarch RADI-1: face-tracking laser turret prototype
-[2025] → Launched Monarch Intel Dashboard: geospatial threat visualizer
-[2025] → Competed in ML hackathons: Kaggle · Zindi
-[2024] → First ML + hardware fusion: MediaPipe finger counter → Arduino
-[2024] → Founded Monarch Industries — AI-powered defense & automation
+[2026] → Built AgriSense: offline AI assistant for Nigerian farmers
+[2026] → Deployed Monarch RADI-1: face-tracking laser turret prototype
+[2026] → First ML + hardware fusion: MediaPipe finger counter → Arduino
+[2026] → Launched DevDeul: Gaming platform for Developers
+[2025] → Launched Veritas: Bible RAG AI appliction
+[2025] → Launched PrepPal: AI study tool(summary, flash card & Quiz)
 ```
 
 ---
