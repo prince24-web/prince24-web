@@ -30,28 +30,14 @@
 class PrinceChidera:
     name       = "Prince Chidera"
     alias      = "Code Mornach"
-    company    = "Monarch Industries (Founder)"
 
     stack = {
         "ml_ai"     : ["PyTorch", "TensorFlow", "ONNX", "Ollama", "LangChain", "ChromaDB"],
         "vision"    : ["OpenCV", "MediaPipe", "YOLO", "TinyML"],
-        "hardware"  : ["ESP32", "Arduino", "Raspberry Pi", "SG90 Servos", "nRF24L01"],
+        "hardware"  : ["ESP32", "Arduino", "Raspberry Pi","nRF24L01"],
         "languages" : ["Python", "C/C++", "JavaScript"],
-        "infra"     : ["SQLite", "Supabase", "Next.js", "Docker"],
     }
-
-    mission = "Building intelligent hardware for defense & automation."
-
-    def current_focus(self):
-        return [
-            "🛰️  Real-time computer vision on edge hardware",
-            "🤖  TinyML & on-device inference pipelines",
-            "🌾  Offline AI for agriculture (GreenNET)",
-            "⚡  Sensor fusion & autonomous targeting systems",
-        ]
 ```
-
----
 
 ## `> ls ./projects`
 
@@ -59,10 +45,10 @@ class PrinceChidera:
 <tr>
 <td width="50%">
 
-### 🎯 Monarch RADI-1
-**Real-time Face-Tracking Laser System**
-MediaPipe · Arduino · SG90 Servos · Python Serial
-> Tracks faces at 30fps and drives dual-axis servo gimbal via UART. First prototype of Monarch's autonomous targeting line.
+### ✂️ Clipper Agent
+**AI-Powered Content Clipping & Publishing Platform**
+AI · Video Processing · Automation · Social Media APIs
+> Automatically identifies high-value moments from long-form content, generates short-form clips, and streamlines publishing across social platforms.
 
 </td>
 <td width="50%">
@@ -77,18 +63,18 @@ Qwen2.5:1.5b · ChromaDB · ONNX · Ollama · SQLite
 <tr>
 <td width="50%">
 
-### 🗺️ Monarch Intel Dashboard
-**Geospatial Crime Intelligence Interface**
-Leaflet.js · JavaScript · Heatmap · GeoJSON
-> Dark-ops dashboard visualizing kidnapping incident data across Nigeria with severity markers and filter controls.
+### 🧠 Vinci
+**AI-Powered Study & Learning Platform**
+Next.js · AI · Python · Supabase · Machine Learning
+> An AI learning platform designed to help students learn AI, machine learning, and Python through structured courses, intelligent assistance, and hands-on learning.
 
 </td>
 <td width="50%">
 
-### 📡 Tactical Perimeter Intelligence System
-**Multi-Sensor Autonomous Defense Demo**
-ESP32-CAM · MPU-6050 · nRF24L01 · DeepSORT
-> Full-stack perimeter monitoring using sensor fusion, RF comms, and object tracking — built with off-the-shelf hardware.
+### ⚔️ DevDuel
+**Competitive Developer Challenge Platform**
+Next.js · JavaScript · WebSockets · Gamification · Code Execution
+> A competitive coding game where developers challenge each other, solve programming problems head-to-head, and compete for wins on the leaderboard.
 
 </td>
 </tr>
